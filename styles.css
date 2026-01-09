@@ -2,3 +2,14 @@
   background-color: bisque;
   gap: 20px;
 }
+.img {
+  size: small;
+}
+.headling {
+  text-align: center;
+  padding: 20px;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
